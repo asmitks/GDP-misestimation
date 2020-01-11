@@ -16,7 +16,8 @@ fundamental indicators of growth of a country.
 Therefore, we propose to perform an extensive econometric analysis of these claims and test whether tax
 should have been included or not included while testing the misestimation of the GDP of India.
 
-![Image description]('Research_poster.png')
+![alt text](https://raw.githubusercontent.com/asmitks/GDP-misestimation-/master/Research_poster.png)
+
 
 Please look at 'Report.pdf' for further deatails.
 
