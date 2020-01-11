@@ -18,3 +18,6 @@ should have been included or not included while testing the misestimation of the
 
 
 Please look at 'Report.pdf' for further deatails.
+
+
+Teammates : Paras Mehan[parasmehan123] ; Ujjwal Singh[ujjwalll] ; Archit Aggarwal[nahimilega]
